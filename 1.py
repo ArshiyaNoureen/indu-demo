@@ -1,1 +1,1 @@
-print("hello mom")
+i=input()
