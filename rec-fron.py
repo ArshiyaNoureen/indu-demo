@@ -1,2 +1,2 @@
-print("rec-fron")
+print("rec-nou")
 i=input()
